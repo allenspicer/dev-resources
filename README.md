@@ -15,6 +15,7 @@ The following list provides links to websites, blogs, conferences, groups, books
 [Objective-C Programming: The Big Nerd Ranch Guide](http://www.amazon.com/Objective-C-Programming-Ranch-Edition-Guides/dp/032194206X/) - Aaron Hillegass, Mikey Ward  
 [Cocoa Programming for Mac OS X](http://www.amazon.com/Cocoa-Programming-Mac-OS-4th/dp/0321774086/) - Aaron Hillegass, Adam Preble  
 [Effective Objective-C 2.0: Ways to Improve Your iOS and OS X Programs](http://www.amazon.com/Effective-Objective-C-2-0-Specific-Development/dp/0321917014/) - Matt Galloway
+[Design+Code: Learn iOS design and Xcode](https://designcode.io/) - Meng To  
 
 ## Conferences
 [Apple Worldwide Developers Conference (WWDC)](https://developer.apple.com/wwdc/) - San Francisco, CA  
@@ -23,5 +24,6 @@ The following list provides links to websites, blogs, conferences, groups, books
 [CodeStock](http://www.codestock.org) - Knoxville, TN
 
 ## Schools
+[Big Nerd Ranch](http://www.bignerdranch.com/) - classes offered for iOS and Mac  
 [Treehouse](http://teamtreehouse.com/features/ios) - iOS programming  
 [Code School](https://www.codeschool.com/paths/ios) - basics of iOS development and iPhone / iPad apps  
