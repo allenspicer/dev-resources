@@ -5,6 +5,7 @@ The following list provides links to websites, blogs, conferences, groups, books
 ## Websites / Blogs
 
 [Ray Wenderlich](http://www.raywenderlich.com) - Tutorials for iPhone / iOS developers and gamers  
+[Swift Blog](https://developer.apple.com/swift/blog/) - Apple's official blog for the Swift language  
 [obj.io](http://www.objc.io) - A periodical about best practices and advanced techniques in Objective-C  
 [NSHipster](http://nshipster.com) - Obscure topics in Cocoa and Objective-C  
 [Think & Build](http://www.thinkandbuild.it) - Tutorials about OS X, iOS and web development
@@ -31,6 +32,7 @@ Galloway
 [CodeStock](http://www.codestock.org) - Knoxville, TN
 
 ## Schools
-[Big Nerd Ranch](http://www.bignerdranch.com/) - classes offered for iOS and Mac  
+[Big Nerd Ranch](http://www.bignerdranch.com/) - classes offered for iOS and Mac programming  
+[The Iron Yard](http://theironyard.com/academy/) - learn iOS app development using Xcode 5 and Objective-C  
 [Treehouse](http://teamtreehouse.com/features/ios) - iOS programming  
 [Code School](https://www.codeschool.com/paths/ios) - basics of iOS development and iPhone / iPad apps  
