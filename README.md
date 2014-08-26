@@ -36,3 +36,7 @@ Galloway
 [The Iron Yard](http://theironyard.com/academy/) - learn iOS app development using Xcode 5 and Objective-C  
 [Treehouse](http://teamtreehouse.com/features/ios) - iOS programming  
 [Code School](https://www.codeschool.com/paths/ios) - basics of iOS development and iPhone / iPad apps  
+
+## Newsletters
+[iOS Dev Weekly](http://iosdevweekly.com) - curated by Dave Verwer and published every Friday  
+[Ray's Monthly Newsletter](http://www.raywenderlich.com) - published monthly by Ray Wenderlich
