@@ -27,7 +27,7 @@ Galloway
 
 ## Conferences
 [Apple Worldwide Developers Conference (WWDC)](https://developer.apple.com/wwdc/) - San Francisco, CA  
-[CocoaConf](http://cocoaconf.com) - various locations 
+[CocoaConf](http://cocoaconf.com) - various locations  
 [360iDev](http://360idev.com) - Denver, CO  
 [CodeStock](http://www.codestock.org) - Knoxville, TN
 
