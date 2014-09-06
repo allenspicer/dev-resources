@@ -39,4 +39,5 @@ Galloway
 
 ## Newsletters
 [iOS Dev Weekly](http://iosdevweekly.com) - curated by Dave Verwer and published every Friday  
-[Ray's Monthly Newsletter](http://www.raywenderlich.com) - published monthly by Ray Wenderlich
+[Ray's Monthly Newsletter](http://www.raywenderlich.com) - published monthly by Ray Wenderlich  
+[Swift Developer Weekly](http://swiftdevweekly.co) - weekly publication curated by Phil Wright
