@@ -29,13 +29,15 @@ Galloway
 [Apple Worldwide Developers Conference (WWDC)](https://developer.apple.com/wwdc/) - San Francisco, CA  
 [CocoaConf](http://cocoaconf.com) - various locations  
 [360iDev](http://360idev.com) - Denver, CO  
-[CodeStock](http://www.codestock.org) - Knoxville, TN
+[CodeStock](http://www.codestock.org) - Knoxville, TN  
+[CocoaLove](http://cocoalove.org) - Philadelphia, PA
 
-## Schools
+## Schools and Online Courses
 [Big Nerd Ranch](http://www.bignerdranch.com/) - classes offered for iOS and Mac programming  
 [The Iron Yard](http://theironyard.com/academy/) - learn iOS app development using Xcode 5 and Objective-C  
 [Treehouse](http://teamtreehouse.com/features/ios) - iOS programming  
 [Code School](https://www.codeschool.com/paths/ios) - basics of iOS development and iPhone / iPad apps  
+[Bitfountain](http://bitfountain.io) - iOS 7 and iOS 8 online video courses and discussions
 
 ## Newsletters
 [iOS Dev Weekly](http://iosdevweekly.com) - curated by Dave Verwer and published every Friday  
