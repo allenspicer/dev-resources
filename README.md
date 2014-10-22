@@ -44,3 +44,8 @@ Galloway
 [Ray's Monthly Newsletter](http://www.raywenderlich.com) - published monthly by Ray Wenderlich  
 [Swift Developer Weekly](http://swiftdevweekly.co) - weekly publication curated by Phil Wright  
 [iOS GameDev Weekly](http://iosgamedevweekly.com) - collection of iOS game development links every week
+
+## Analytics and Feedback
+[Crashlytics](https://try.crashlytics.com) - light weight crash reporting solution  
+[AppbotX](https://appbot.co/appbotx/getstarted) - better mobile app support  
+[Flurry](http://www.flurry.com) - analytics for mobile platforms
