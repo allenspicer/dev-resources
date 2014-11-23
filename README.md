@@ -8,7 +8,8 @@ The following list provides links to websites, blogs, conferences, groups, books
 [Swift Blog](https://developer.apple.com/swift/blog/) - Apple's official blog for the Swift language  
 [obj.io](http://www.objc.io) - A periodical about best practices and advanced techniques in Objective-C  
 [NSHipster](http://nshipster.com) - Obscure topics in Cocoa and Objective-C  
-[Think & Build](http://www.thinkandbuild.it) - Tutorials about OS X, iOS and web development
+[Think & Build](http://www.thinkandbuild.it) - Tutorials about OS X, iOS and web development  
+[Natasha The Robot](http://natashatherobot.com) - Swift tutorials and examples
 
 ## Books
 
