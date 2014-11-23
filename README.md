@@ -23,8 +23,9 @@ Hillegass, Mikey Ward
 Aaron Hillegass, Adam Preble  
 [Effective Objective-C 2.0: Ways to Improve Your iOS and OS X 
 Programs](http://www.amazon.com/Effective-Objective-C-2-0-Specific-Development/dp/0321917014/) by Matt 
-Galloway
-[Design+Code: Learn iOS design and Xcode](https://designcode.io/) by Meng To  
+Galloway  
+[Design+Code: Learn iOS design and Xcode](https://designcode.io/) by Meng To   
+[Motion Design for iOS](http://designthencode.com) by Mike Rundle
 
 ## Conferences
 [Apple Worldwide Developers Conference (WWDC)](https://developer.apple.com/wwdc/) - San Francisco, CA  
