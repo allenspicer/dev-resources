@@ -10,7 +10,8 @@ The following list provides links to websites, blogs, conferences, groups, books
 [NSHipster](http://nshipster.com) - Obscure topics in Cocoa and Objective-C  
 [Think & Build](http://www.thinkandbuild.it) - Tutorials about OS X, iOS and web development  
 [Natasha The Robot](http://natashatherobot.com) - Swift tutorials and examples  
-[iAchieved.it](http://dev.iachieved.it/iachievedit/) - Software development tips and tricks
+[iAchieved.it](http://dev.iachieved.it/iachievedit/) - Software development tips and tricks  
+[Metal By Example](http://metalbyexample.com) - High performance graphics and compute programming for iOS
 
 ## Books
 
