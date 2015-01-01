@@ -47,7 +47,8 @@ Galloway
 [iOS Dev Weekly](http://iosdevweekly.com) - curated by Dave Verwer and published every Friday  
 [Ray's Monthly Newsletter](http://www.raywenderlich.com) - published monthly by Ray Wenderlich  
 [Swift Developer Weekly](http://swiftdevweekly.co) - weekly publication curated by Phil Wright  
-[iOS GameDev Weekly](http://iosgamedevweekly.com) - collection of iOS game development links every week
+[iOS GameDev Weekly](http://iosgamedevweekly.com) - collection of iOS game development links every week  
+[This Week in Swift](http://swiftnews.curated.co) - weekly Swift news & resources via email or Safari Push Notification
 
 ## Analytics and Feedback
 [Crashlytics](https://try.crashlytics.com) - light weight crash reporting solution  
