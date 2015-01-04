@@ -11,7 +11,8 @@ The following list provides links to websites, blogs, conferences, groups, books
 [Think & Build](http://www.thinkandbuild.it) - Tutorials about OS X, iOS and web development  
 [Natasha The Robot](http://natashatherobot.com) - Swift tutorials and examples  
 [iAchieved.it](http://dev.iachieved.it/iachievedit/) - Software development tips and tricks  
-[Metal By Example](http://metalbyexample.com) - High performance graphics and compute programming for iOS
+[Metal By Example](http://metalbyexample.com) - High performance graphics and compute programming for iOS  
+[Command Shift](http://commandshift.co.uk) - iOS development and other nonsense
 
 ## Books
 
@@ -27,7 +28,8 @@ Aaron Hillegass, Adam Preble
 Programs](http://www.amazon.com/Effective-Objective-C-2-0-Specific-Development/dp/0321917014/) by Matt 
 Galloway  
 [Design+Code: Learn iOS design and Xcode](https://designcode.io/) by Meng To   
-[Motion Design for iOS](http://designthencode.com) by Mike Rundle
+[Motion Design for iOS](http://designthencode.com) by Mike Rundle  
+[3D Graphics with Scene Kit](http://ronnqvi.st/book/) by David Ronnqvist
 
 ## Conferences
 [Apple Worldwide Developers Conference (WWDC)](https://developer.apple.com/wwdc/) - San Francisco, CA  
