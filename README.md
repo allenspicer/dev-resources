@@ -3,7 +3,6 @@
 The following list provides links to websites, blogs, conferences, groups, books, and whatever else is available to the public for learning Objective-C and Swift programming. Feel free to submit your own suggestions and categories.
 
 ## Websites / Blogs
-
 [Ray Wenderlich](http://www.raywenderlich.com) - Tutorials for iPhone / iOS developers and gamers  
 [Swift Blog](https://developer.apple.com/swift/blog/) - Apple's official blog for the Swift language  
 [obj.io](http://www.objc.io) - A periodical about best practices and advanced techniques in Objective-C  
@@ -15,7 +14,6 @@ The following list provides links to websites, blogs, conferences, groups, books
 [Command Shift](http://commandshift.co.uk) - iOS development and other nonsense
 
 ## Books
-
 [iOS Programming: The Big Nerd Ranch 
 Guide](http://www.amazon.com/iOS-Programming-Ranch-Edition-Guides/dp/0321942051/) by Joe Conway, Aaron 
 Hillegass, Christian Keur  
@@ -30,6 +28,13 @@ Galloway
 [Design+Code: Learn iOS design and Xcode](https://designcode.io/) by Meng To   
 [Motion Design for iOS](http://designthencode.com) by Mike Rundle  
 [3D Graphics with Scene Kit](http://ronnqvi.st/book/) by David Ronnqvist
+
+## Podcasts
+[Accidental Tech Podcast](http://atp.fm) - discussion of tech, Apple, programming, and loosely related matters  
+[Edge Cases](http://edgecasesshow.com) - weekly podcast about mostly Apple software development  
+[Developing Perspective](http://developingperspective.com) - discussing news of note in iOS Development, Apple and the like  
+[Release Notes](http://releasenotes.tv/aboutthepodcast/) - weekly podcast about the business of Mac and iOS indie software development  
+[Core Intuition](http://www.coreint.org) - indie software development for the Mac, iOS and other Apple technologies
 
 ## Conferences
 [Apple Worldwide Developers Conference (WWDC)](https://developer.apple.com/wwdc/) - San Francisco, CA  
