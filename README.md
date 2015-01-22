@@ -11,7 +11,8 @@ The following list provides links to websites, blogs, conferences, groups, books
 [Natasha The Robot](http://natashatherobot.com) - Swift tutorials and examples  
 [iAchieved.it](http://dev.iachieved.it/iachievedit/) - Software development tips and tricks  
 [Metal By Example](http://metalbyexample.com) - High performance graphics and compute programming for iOS  
-[Command Shift](http://commandshift.co.uk) - iOS development and other nonsense
+[Command Shift](http://commandshift.co.uk) - iOS development and other nonsense  
+[FlexMonkey](http://flexmonkey.blogspot.com) - Swift and ActionScript tinkering
 
 ## Books
 [iOS Programming: The Big Nerd Ranch 
