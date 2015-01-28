@@ -49,7 +49,11 @@ Galloway
 [The Iron Yard](http://theironyard.com/academy/) - learn iOS app development using Xcode 5 and Objective-C  
 [Treehouse](http://teamtreehouse.com/features/ios) - iOS programming  
 [Code School](https://www.codeschool.com/paths/ios) - basics of iOS development and iPhone / iPad apps  
-[Bitfountain](http://bitfountain.io) - iOS 7 and iOS 8 online video courses and discussions
+[Bitfountain](http://bitfountain.io) - iOS 7 and iOS 8 online video courses and discussions  
+[Lynda.com](http://www.lynda.com) - Swift, iOS, C, and Objective-C online video courses  
+[Pluralsight](http://www.pluralsight.com) - iOS, Objective-C, and Swift courses  
+[Udemy](https://www.udemy.com) - Swift and iOS online courses  
+[Stanford on iTunes U](https://itunes.stanford.edu/index.html) - iOS and Swift programming courses
 
 ## Newsletters
 [iOS Dev Weekly](http://iosdevweekly.com) - curated by Dave Verwer and published every Friday  
