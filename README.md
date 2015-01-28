@@ -12,7 +12,9 @@ The following list provides links to websites, blogs, conferences, groups, books
 [iAchieved.it](http://dev.iachieved.it/iachievedit/) - Software development tips and tricks  
 [Metal By Example](http://metalbyexample.com) - High performance graphics and compute programming for iOS  
 [Command Shift](http://commandshift.co.uk) - iOS development and other nonsense  
-[FlexMonkey](http://flexmonkey.blogspot.com) - Swift and ActionScript tinkering
+[FlexMonkey](http://flexmonkey.blogspot.com) - Swift and ActionScript tinkering  
+[iOScreator](http://www.ioscreator.com) - posts about Objective-C, Swift, Cocoa and developing with Xcode  
+[Coding Explorer Blog](http://www.codingexplorer.com) - learn how to program for iOS in Swift
 
 ## Books
 [iOS Programming: The Big Nerd Ranch 
