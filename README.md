@@ -5,7 +5,7 @@ The following list provides links to websites, blogs, conferences, groups, books
 ## Websites / Blogs
 [Ray Wenderlich](http://www.raywenderlich.com) - Tutorials for iPhone / iOS developers and gamers  
 [Swift Blog](https://developer.apple.com/swift/blog/) - Apple's official blog for the Swift language  
-[obj.io](http://www.objc.io) - A periodical about best practices and advanced techniques in Objective-C  
+[objc.io](http://www.objc.io) - A periodical about best practices and advanced techniques in Objective-C  
 [NSHipster](http://nshipster.com) - Obscure topics in Cocoa and Objective-C  
 [Think & Build](http://www.thinkandbuild.it) - Tutorials about OS X, iOS and web development  
 [Natasha The Robot](http://natashatherobot.com) - Swift tutorials and examples  
@@ -14,7 +14,8 @@ The following list provides links to websites, blogs, conferences, groups, books
 [Command Shift](http://commandshift.co.uk) - iOS development and other nonsense  
 [FlexMonkey](http://flexmonkey.blogspot.com) - Swift and ActionScript tinkering  
 [iOScreator](http://www.ioscreator.com) - posts about Objective-C, Swift, Cocoa and developing with Xcode  
-[Coding Explorer Blog](http://www.codingexplorer.com) - learn how to program for iOS in Swift
+[Coding Explorer Blog](http://www.codingexplorer.com) - learn how to program for iOS in Swift  
+[Functional Gibberish](http://www.functionalgibberish.com) - programming in Swift
 
 ## Books
 [iOS Programming: The Big Nerd Ranch 
