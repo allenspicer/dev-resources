@@ -31,7 +31,8 @@ Programs](http://www.amazon.com/Effective-Objective-C-2-0-Specific-Development/d
 Galloway  
 [Design+Code: Learn iOS design and Xcode](https://designcode.io/) by Meng To   
 [Motion Design for iOS](http://designthencode.com) by Mike Rundle  
-[3D Graphics with Scene Kit](http://ronnqvi.st/book/) by David Ronnqvist
+[3D Graphics with Scene Kit](http://ronnqvi.st/book/) by David Ronnqvist  
+[Intermediate iOS 8 Programming with Swift Book](http://www.appcoda.com/intermediate-swift-programming-book/) by AppCoda
 
 ## Podcasts
 [Accidental Tech Podcast](http://atp.fm) - discussion of tech, Apple, programming, and loosely related matters  
@@ -64,7 +65,8 @@ Galloway
 [Swift Developer Weekly](http://swiftdevweekly.co) - weekly publication curated by Phil Wright  
 [iOS GameDev Weekly](http://iosgamedevweekly.com) - collection of iOS game development links every week  
 [This Week in Swift](http://swiftnews.curated.co) - weekly Swift news & resources via email or Safari Push Notification  
-[iOS Goodies](http://ios-goodies.com) - weekly articles and other iOS goodies
+[iOS Goodies](http://ios-goodies.com) - weekly articles and other iOS goodies  
+[iOS Tech Learning/Resources Weekly](https://darrellnicholas-com.curated.co) - weekly publication of relevant, interesting links
 
 ## Analytics and Feedback
 [Crashlytics](https://try.crashlytics.com) - light weight crash reporting solution  
