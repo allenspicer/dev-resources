@@ -1,8 +1,8 @@
 # Resources for learning Objective-C and Swift
 
-The following list provides links to websites, blogs, conferences, groups, books, and whatever else is available to the public for learning Objective-C and Swift programming. Feel free to submit your own suggestions and categories.
+The following lists provide links to websites, blogs, conferences, groups, books, and whatever else is available to the public for learning Objective-C and Swift programming. Feel free to submit your own suggestions and categories via pull request.
 
-## Websites / Blogs
+## Websites and Blogs
 [Ray Wenderlich](http://www.raywenderlich.com) - Tutorials for iPhone / iOS developers and gamers  
 [Swift Blog](https://developer.apple.com/swift/blog/) - Apple's official blog for the Swift language  
 [objc.io](http://www.objc.io) - A periodical about best practices and advanced techniques in Objective-C  
@@ -15,7 +15,8 @@ The following list provides links to websites, blogs, conferences, groups, books
 [FlexMonkey](http://flexmonkey.blogspot.com) - Swift and ActionScript tinkering  
 [iOScreator](http://www.ioscreator.com) - posts about Objective-C, Swift, Cocoa and developing with Xcode  
 [Coding Explorer Blog](http://www.codingexplorer.com) - learn how to program for iOS in Swift  
-[Functional Gibberish](http://www.functionalgibberish.com) - programming in Swift
+[Functional Gibberish](http://www.functionalgibberish.com) - programming in Swift  
+[AppCoda](http://www.appcoda.com) - blog dedicated to iOS programming
 
 ## Books
 [iOS Programming: The Big Nerd Ranch 
