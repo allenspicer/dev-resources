@@ -73,3 +73,10 @@ Galloway
 [Crashlytics](https://try.crashlytics.com) - light weight crash reporting solution  
 [AppbotX](https://appbot.co/appbotx/getstarted) - better mobile app support  
 [Flurry](http://www.flurry.com) - analytics for mobile platforms
+
+## Software Development Kits (SDKs)
+[Layer](https://layer.com) - a full-stack building block for for communications  
+[Parse](https://www.parse.com) - cloud database, push notifications, connected devices, and analytics
+
+## Application Programming Interface (API)
+[Firebase](https://www.firebase.com) - store and sync data in realtime
