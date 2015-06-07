@@ -1,4 +1,4 @@
-# Resources for learning Objective-C and Swift
+# Resources and tools for Swift developers
 
 The following lists provide links to websites, blogs, conferences, groups, books, and whatever else is available to the public for learning Objective-C and Swift programming. Feel free to submit your own suggestions and categories via pull request.
 
@@ -16,7 +16,11 @@ The following lists provide links to websites, blogs, conferences, groups, books
 [iOScreator](http://www.ioscreator.com) - posts about Objective-C, Swift, Cocoa and developing with Xcode  
 [Coding Explorer Blog](http://www.codingexplorer.com) - learn how to program for iOS in Swift  
 [Functional Gibberish](http://www.functionalgibberish.com) - programming in Swift  
-[AppCoda](http://www.appcoda.com) - blog dedicated to iOS programming
+[AppCoda](http://www.appcoda.com) - blog dedicated to iOS programming  
+[iOS Development Tips](http://iosdevtips.co) - small tips related to Xcode, Objective-C, and iOS  
+[Little Bites of Cocoa](http://littlebitesofcocoa.com) - tips and techniques for iOS and Mac development  
+[AppleProgramming](https://www.youtube.com/user/AppleProgramming) - C, Objective-C, and Swift video tutorials for Mac developers  
+[Use Your Loaf](http://useyourloaf.com) - programming examples for OS X and iOS  
 
 ## Books
 [iOS Programming: The Big Nerd Ranch 
@@ -47,7 +51,8 @@ Galloway
 [CocoaConf](http://cocoaconf.com) - various locations  
 [360iDev](http://360idev.com) - Denver, CO  
 [CodeStock](http://www.codestock.org) - Knoxville, TN  
-[CocoaLove](http://cocoalove.org) - Philadelphia, PA
+[CocoaLove](http://cocoalove.org) - Philadelphia, PA  
+[RWDevCon](http://www.rwdevcon.com) - the tutorial conference
 
 ## Schools and Online Courses
 [Big Nerd Ranch](http://www.bignerdranch.com/) - classes offered for iOS and Mac programming  
@@ -80,3 +85,11 @@ Galloway
 
 ## Application Programming Interface (API)
 [Firebase](https://www.firebase.com) - store and sync data in realtime
+
+## Twitter
+[Tim Cook](https://twitter.com/tim_cook) - CEO Apple, Fan of Auburn football and Duke basketball  
+[Chris Lattner](https://twitter.com/clattner_llvm) - The revolution will be Swift! LLVM & Clang are pretty nice too :-)  
+[Matt Galloway](https://twitter.com/mattjgalloway) - iOS developer, Dad, author of Effective Objective-C 2.0.  
+[Ash Furrow](https://twitter.com/ashfurrow) - Swift cheerleader at @Artsy. Also open source. As Canadian as frozen apple pie.  
+[Ole Begemann](https://twitter.com/olebegemann) - iOS and Mac developer from Berlin. Also tweeting as @elo (in German).  
+[Chris Eidhof](https://twitter.com/chriseidhof) - I make things: @FunctionalSwift – @getscenery – @decksetapp – @objcio  
