@@ -77,7 +77,8 @@ Galloway
 ## Analytics and Feedback
 [Crashlytics](https://try.crashlytics.com) - light weight crash reporting solution  
 [AppbotX](https://appbot.co/appbotx/getstarted) - better mobile app support  
-[Flurry](http://www.flurry.com) - analytics for mobile platforms
+[Flurry](http://www.flurry.com) - analytics for mobile platforms  
+[LaunchKit](https://launchkit.io) - screenshot builder, review monitor, sales reports, and website creation 
 
 ## Software Development Kits (SDKs)
 [Layer](https://layer.com) - a full-stack building block for for communications  
