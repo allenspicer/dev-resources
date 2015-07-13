@@ -63,7 +63,8 @@ Galloway
 [Lynda.com](http://www.lynda.com) - Swift, iOS, C, and Objective-C online video courses  
 [Pluralsight](http://www.pluralsight.com) - iOS, Objective-C, and Swift courses  
 [Udemy](https://www.udemy.com) - Swift and iOS online courses  
-[Stanford on iTunes U](https://itunes.stanford.edu/index.html) - iOS and Swift programming courses
+[Stanford on iTunes U](https://itunes.stanford.edu/index.html) - iOS and Swift programming courses  
+[Udacity](https://www.udacity.com) - online courses and degree programs
 
 ## Newsletters
 [iOS Dev Weekly](http://iosdevweekly.com) - curated by Dave Verwer and published every Friday  
