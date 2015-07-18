@@ -79,7 +79,8 @@ Galloway
 [Crashlytics](https://try.crashlytics.com) - light weight crash reporting solution  
 [AppbotX](https://appbot.co/appbotx/getstarted) - better mobile app support  
 [Flurry](http://www.flurry.com) - analytics for mobile platforms  
-[LaunchKit](https://launchkit.io) - screenshot builder, review monitor, sales reports, and website creation 
+[LaunchKit](https://launchkit.io) - screenshot builder, review monitor, sales reports, and website creation  
+[App Store Health Check](http://healthcheck.appbot.co/#/) - recommendations to improve app store description
 
 ## Software Development Kits (SDKs)
 [Layer](https://layer.com) - a full-stack building block for for communications  
