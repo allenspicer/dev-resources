@@ -52,7 +52,9 @@ Galloway
 [360iDev](http://360idev.com) - Denver, CO  
 [CodeStock](http://www.codestock.org) - Knoxville, TN  
 [CocoaLove](http://cocoalove.org) - Philadelphia, PA  
-[RWDevCon](http://www.rwdevcon.com) - the tutorial conference
+[RWDevCon](http://www.rwdevcon.com) - the tutorial conference  
+[Music City Code](http://www.musiccitycode.com) - tech conference in Nashville, TN  
+[Spark Conference](http://sparkconf.org) - tech conference in Charlotte, NC
 
 ## Schools and Online Courses
 [Big Nerd Ranch](http://www.bignerdranch.com/) - classes offered for iOS and Mac programming  
