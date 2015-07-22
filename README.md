@@ -85,8 +85,9 @@ Galloway
 [App Store Health Check](http://healthcheck.appbot.co/#/) - recommendations to improve app store description
 
 ## Software Development Kits (SDKs)
-[Layer](https://layer.com) - a full-stack building block for for communications  
-[Parse](https://www.parse.com) - cloud database, push notifications, connected devices, and analytics
+[Layer](https://layer.com) - a full-stack building block for communications  
+[Parse](https://www.parse.com) - cloud database, push notifications, connected devices, and analytics  
+[Deep Belief](https://github.com/jetpacapp/DeepBeliefSDK) - image recognition framework
 
 ## Application Programming Interface (API)
 [Firebase](https://www.firebase.com) - store and sync data in realtime
