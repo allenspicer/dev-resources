@@ -44,7 +44,13 @@ Galloway
 [Edge Cases](http://edgecasesshow.com) - weekly podcast about mostly Apple software development  
 [Developing Perspective](http://developingperspective.com) - discussing news of note in iOS Development, Apple and the like  
 [Release Notes](http://releasenotes.tv/aboutthepodcast/) - weekly podcast about the business of Mac and iOS indie software development  
-[Core Intuition](http://www.coreint.org) - indie software development for the Mac, iOS and other Apple technologies
+[Core Intuition](http://www.coreint.org) - indie software development for Mac, iOS and other Apple technologies  
+[CocoaConf Podcast](http://cocoaconf.com/podcast) - professional development for iOS and OSX developers  
+[iPhreaks](http://devchat.tv/iphreaks) - podcast for app developers  
+[More Than Just Code Podcast](http://www.mtjc.fm) - a show about mobile development  
+[The iOS Show](http://www.wehavecommunicators.com) - iOS news, tips, and opinions  
+[iOS Bytes](https://iosbytes.codeschool.com) - the latest news in the iOS community  
+[Developing Perspective](http://developingperspective.com) - podcast discussing news of note in iOS Development, Apple and the like
 
 ## Conferences
 [Apple Worldwide Developers Conference (WWDC)](https://developer.apple.com/wwdc/) - San Francisco, CA  
