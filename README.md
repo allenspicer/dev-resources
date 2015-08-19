@@ -98,6 +98,12 @@ Galloway
 ## Application Programming Interface (API)
 [Firebase](https://www.firebase.com) - store and sync data in realtime
 
+## Developer Tools
+[Swift Bootstrap](http://www.swiftbootstrap.com) - help speed up the process of developing iOS apps  
+[Blocs](http://blocsapp.com) - build beautiful responsive websites without touching a line of code  
+[QuartzCode](http://www.quartzcodeapp.com) - turn animation natively into Objective-C or Swift code  
+[fastlane](https://fastlane.tools) - iOS automation for continuous delivery
+
 ## Twitter
 [Tim Cook](https://twitter.com/tim_cook) - CEO Apple, Fan of Auburn football and Duke basketball  
 [Chris Lattner](https://twitter.com/clattner_llvm) - The revolution will be Swift! LLVM & Clang are pretty nice too :-)  
