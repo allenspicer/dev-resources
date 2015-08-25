@@ -103,7 +103,8 @@ Galloway
 [Swift Bootstrap](http://www.swiftbootstrap.com) - help speed up the process of developing iOS apps  
 [Blocs](http://blocsapp.com) - build beautiful responsive websites without touching a line of code  
 [QuartzCode](http://www.quartzcodeapp.com) - turn animation natively into Objective-C or Swift code  
-[fastlane](https://fastlane.tools) - iOS automation for continuous delivery
+[fastlane](https://fastlane.tools) - iOS automation for continuous delivery  
+[Flinto for Mac](https://www.flinto.com/mac) - the prototyping tool designers have been waiting for
 
 ## Twitter
 [Tim Cook](https://twitter.com/tim_cook) - CEO Apple, Fan of Auburn football and Duke basketball  
