@@ -1,6 +1,6 @@
-# Resources and tools for Swift developers
+# Resources for Mac and iOS developers
 
-The following lists provide links to websites, blogs, conferences, groups, books, and whatever else is available to the public for learning Objective-C and Swift programming. Feel free to submit your own suggestions and categories via pull request.
+The following lists provide links to websites, blogs, conferences, groups, books, and whatever else is available to the public for learning Objective-C and Swift programming. Feel free to submit your own suggestions and categories via *Pull requests* or *Issues*.
 
 ## Websites and Blogs
 [Ray Wenderlich](http://www.raywenderlich.com) - Tutorials for iPhone / iOS developers and gamers  
