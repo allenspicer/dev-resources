@@ -22,6 +22,7 @@ The following lists provide links to websites, blogs, conferences, groups, books
 [AppleProgramming](https://www.youtube.com/user/AppleProgramming) - C, Objective-C, and Swift video tutorials for Mac developers  
 [Use Your Loaf](http://useyourloaf.com) - programming examples for OS X and iOS  
 [We ❤ Swift](https://www.weheartswift.com) - Swift and iOS articles and tutorials  
+[ShinobiControls](https://www.shinobicontrols.com/blog) - technical blog posts for iOS
 
 ## Books
 [iOS Programming: The Big Nerd Ranch 
