@@ -40,7 +40,8 @@ Galloway
 [Design+Code: Learn iOS design and Xcode](https://designcode.io/) by Meng To   
 [Motion Design for iOS](http://designthencode.com) by Mike Rundle  
 [3D Graphics with Scene Kit](http://ronnqvi.st/book/) by David Ronnqvist  
-[Intermediate iOS 8 Programming with Swift Book](http://www.appcoda.com/intermediate-swift-programming-book/) by AppCoda
+[Intermediate iOS 8 Programming with Swift Book](http://www.appcoda.com/intermediate-swift-programming-book/) by AppCoda  
+[iOS Apps with REST APIs: Building Web-Driven Apps in Swift](https://leanpub.com/iosappswithrest/c/launch) by Christina Moulton
 
 ## Podcasts
 [Accidental Tech Podcast](http://atp.fm) - discussion of tech, Apple, programming, and loosely related matters  
