@@ -107,7 +107,8 @@ Galloway
 [Blocs](http://blocsapp.com) - build beautiful responsive websites without touching a line of code  
 [QuartzCode](http://www.quartzcodeapp.com) - turn animation natively into Objective-C or Swift code  
 [fastlane](https://fastlane.tools) - iOS automation for continuous delivery  
-[Flinto for Mac](https://www.flinto.com/mac) - the prototyping tool designers have been waiting for
+[Flinto for Mac](https://www.flinto.com/mac) - the prototyping tool designers have been waiting for  
+[ICNS](http://geticns.com) - simple app icon preview for iOS
 
 ## Twitter
 [Tim Cook](https://twitter.com/tim_cook) - CEO Apple, Fan of Auburn football and Duke basketball  
