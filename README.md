@@ -23,7 +23,8 @@ The following lists provide links to websites, blogs, conferences, groups, books
 [Use Your Loaf](http://useyourloaf.com) - programming examples for OS X and iOS  
 [We ❤ Swift](https://www.weheartswift.com) - Swift and iOS articles and tutorials  
 [ShinobiControls](https://www.shinobicontrols.com/blog) - technical blog posts for iOS  
-[KrakenDev](http://krakendev.io) - blog about Swift programming
+[KrakenDev](http://krakendev.io) - blog about Swift programming  
+[SDK Critic](http://www.sdkcritic.com) - review iOS and OS X frameworks
 
 ## Books
 [iOS Programming: The Big Nerd Ranch 
