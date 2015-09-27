@@ -24,7 +24,8 @@ The following lists provide links to websites, blogs, conferences, groups, books
 [We ❤ Swift](https://www.weheartswift.com) - Swift and iOS articles and tutorials  
 [ShinobiControls](https://www.shinobicontrols.com/blog) - technical blog posts for iOS  
 [KrakenDev](http://krakendev.io) - blog about Swift programming  
-[SDK Critic](http://www.sdkcritic.com) - review iOS and OS X frameworks
+[SDK Critic](http://www.sdkcritic.com) - review iOS and OS X frameworks  
+[NSScreencast](http://nsscreencast.com) - weekly bite-sized screencasts for iOS development
 
 ## Books
 [iOS Programming: The Big Nerd Ranch 
