@@ -25,7 +25,8 @@ The following lists provide links to websites, blogs, conferences, groups, books
 [ShinobiControls](https://www.shinobicontrols.com/blog) - technical blog posts for iOS  
 [KrakenDev](http://krakendev.io) - blog about Swift programming  
 [SDK Critic](http://www.sdkcritic.com) - review iOS and OS X frameworks  
-[NSScreencast](http://nsscreencast.com) - weekly bite-sized screencasts for iOS development
+[NSScreencast](http://nsscreencast.com) - weekly bite-sized screencasts for iOS development  
+[Memkite Blog](http://memkite.com/blog/) - blog on deep learning software for iOS
 
 ## Books
 [iOS Programming: The Big Nerd Ranch 
