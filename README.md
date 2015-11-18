@@ -106,6 +106,11 @@ Galloway
 ## Application Programming Interface (API)
 [Firebase](https://www.firebase.com) - store and sync data in realtime
 
+## Continuous Integration (CI)
+[Jenkins](http://jenkins-ci.org) - an extensible open source continuous integration server  
+[CircleCI](https://circleci.com) - continuous integration and deployment  
+[Travis CI](https://travis-ci.org) - test and deploy code with confidence, easily sync with GitHub projects
+
 ## Developer Tools
 [Swift Bootstrap](http://www.swiftbootstrap.com) - help speed up the process of developing iOS apps  
 [Blocs](http://blocsapp.com) - build beautiful responsive websites without touching a line of code  
