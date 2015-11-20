@@ -101,7 +101,8 @@ Galloway
 ## Software Development Kits (SDKs)
 [Layer](https://layer.com) - a full-stack building block for communications  
 [Parse](https://www.parse.com) - cloud database, push notifications, connected devices, and analytics  
-[Deep Belief](https://github.com/jetpacapp/DeepBeliefSDK) - image recognition framework
+[Deep Belief](https://github.com/jetpacapp/DeepBeliefSDK) - image recognition framework  
+[Shopify](https://developers.shopify.com) - mobile commerce tools for apps
 
 ## Application Programming Interface (API)
 [Firebase](https://www.firebase.com) - store and sync data in realtime
@@ -117,7 +118,8 @@ Galloway
 [QuartzCode](http://www.quartzcodeapp.com) - turn animation natively into Objective-C or Swift code  
 [fastlane](https://fastlane.tools) - iOS automation for continuous delivery  
 [Flinto for Mac](https://www.flinto.com/mac) - the prototyping tool designers have been waiting for  
-[ICNS](http://geticns.com) - simple app icon preview for iOS
+[ICNS](http://geticns.com) - simple app icon preview for iOS  
+[Silver Flows](http://silverflows.com) - lightweight mobile prototyping in Sketch  
 
 ## Twitter
 [Tim Cook](https://twitter.com/tim_cook) - CEO Apple, Fan of Auburn football and Duke basketball  
