@@ -26,7 +26,9 @@ The following lists provide links to websites, blogs, conferences, groups, books
 [KrakenDev](http://krakendev.io) - blog about Swift programming  
 [SDK Critic](http://www.sdkcritic.com) - review iOS and OS X frameworks  
 [NSScreencast](http://nsscreencast.com) - weekly bite-sized screencasts for iOS development  
-[Memkite Blog](http://memkite.com/blog/) - blog on deep learning software for iOS
+[Memkite Blog](http://memkite.com/blog/) - blog on deep learning software for iOS  
+[Skilled](http://www.skilled.io) - the show and tell community for developers  
+[Andrew Bancroft](https://www.andrewcbancroft.com) - sharing bits one byte at a time
 
 ## Books
 [iOS Programming: The Big Nerd Ranch 
@@ -67,7 +69,8 @@ Galloway
 [CocoaLove](http://cocoalove.org) - Philadelphia, PA  
 [RWDevCon](http://www.rwdevcon.com) - the tutorial conference  
 [Music City Code](http://www.musiccitycode.com) - tech conference in Nashville, TN  
-[Spark Conference](http://sparkconf.org) - tech conference in Charlotte, NC
+[Spark Conference](http://sparkconf.org) - tech conference in Charlotte, NC  
+[Swift Summit](https://www.swiftsummit.com) - the conference for Swift developers
 
 ## Schools and Online Courses
 [Big Nerd Ranch](http://www.bignerdranch.com/) - classes offered for iOS and Mac programming  
