@@ -1,8 +1,11 @@
 # Resources for Mac and iOS developers
 
-The following lists provide links to websites, blogs, conferences, groups, books, and whatever else is available to the public for learning Objective-C and Swift programming. Feel free to submit your own suggestions and categories via **Pull requests** or **Issues**.
+Navigation:  
+[Websites](#websites) | [Books](#books) | [Conferences](#conferences) | [Courses](#courses) | [Newsletters](#newsletters) | [Podcasts](#podcasts) | [Twitter](#twitter) | [Video](#video)
 
-## Websites and Blogs
+Feel free to submit your own links and categories via [Pull requests](https://github.com/knoxcocoa/dev-resources/pulls) or [Issues](https://github.com/knoxcocoa/dev-resources/issues).
+
+## Websites
 [Ray Wenderlich](http://www.raywenderlich.com) - Tutorials for iPhone / iOS developers and gamers  
 [Swift Blog](https://developer.apple.com/swift/blog/) - Apple's official blog for the Swift language  
 [objc.io](http://www.objc.io) - A periodical about best practices and advanced techniques in Objective-C  
@@ -70,9 +73,10 @@ Galloway
 [RWDevCon](http://www.rwdevcon.com) - the tutorial conference  
 [Music City Code](http://www.musiccitycode.com) - tech conference in Nashville, TN  
 [Spark Conference](http://sparkconf.org) - tech conference in Charlotte, NC  
-[Swift Summit](https://www.swiftsummit.com) - the conference for Swift developers
+[Swift Summit](https://www.swiftsummit.com) - the conference for Swift developers  
+[Indie DevStock](http://www.indiedevstock.com/2016/) - Nashville, TN  
 
-## Schools and Online Courses
+## Courses
 [Big Nerd Ranch](http://www.bignerdranch.com/) - classes offered for iOS and Mac programming  
 [The Iron Yard](http://theironyard.com/academy/) - learn iOS app development using Xcode 5 and Objective-C  
 [Treehouse](http://teamtreehouse.com/features/ios) - iOS programming  
@@ -94,7 +98,7 @@ Galloway
 [iOS Goodies](http://ios-goodies.com) - weekly articles and other iOS goodies  
 [iOS Tech Learning/Resources Weekly](https://darrellnicholas-com.curated.co) - weekly publication of relevant, interesting links
 
-## Analytics and Feedback
+## Analytics
 [Crashlytics](https://try.crashlytics.com) - light weight crash reporting solution  
 [AppbotX](https://appbot.co/appbotx/getstarted) - better mobile app support  
 [Flurry](http://www.flurry.com) - analytics for mobile platforms  
@@ -131,3 +135,6 @@ Galloway
 [Ash Furrow](https://twitter.com/ashfurrow) - Swift cheerleader at @Artsy. Also open source. As Canadian as frozen apple pie.  
 [Ole Begemann](https://twitter.com/olebegemann) - iOS and Mac developer from Berlin. Also tweeting as @elo (in German).  
 [Chris Eidhof](https://twitter.com/chriseidhof) - I make things: @FunctionalSwift – @getscenery – @decksetapp – @objcio  
+
+## Video
+[Pomo.tv](http://www.pomo.tv) - a collection of videos about Mac, iOS, and Swift  
