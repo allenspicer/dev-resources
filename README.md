@@ -1,37 +1,16 @@
 # Resources for Mac and iOS developers
 
-Navigation:  
-[Websites](#websites) | [Books](#books) | [Conferences](#conferences) | [Courses](#courses) | [Newsletters](#newsletters) | [Podcasts](#podcasts) | [Twitter](#twitter) | [Video](#video)
+Categories:  
+[Analytics](#analytics) :chart_with_upwards_trend: | [Books](#books) :books: | [Conferences](#conferences) :office: | [Courses](#courses) :notebook: | [Newsletters](#newsletters) :newspaper: | [Podcasts](#podcasts) :speaker: | [Twitter](#twitter) :bird: | [Video](#video) :movie_camera: | [Websites](#websites) :globe_with_meridians:
 
 Feel free to submit your own links and categories via [Pull requests](https://github.com/knoxcocoa/dev-resources/pulls) or [Issues](https://github.com/knoxcocoa/dev-resources/issues).
 
-## Websites
-[Ray Wenderlich](http://www.raywenderlich.com) - Tutorials for iPhone / iOS developers and gamers  
-[Swift Blog](https://developer.apple.com/swift/blog/) - Apple's official blog for the Swift language  
-[objc.io](http://www.objc.io) - A periodical about best practices and advanced techniques in Objective-C  
-[NSHipster](http://nshipster.com) - Obscure topics in Cocoa and Objective-C  
-[Think & Build](http://www.thinkandbuild.it) - Tutorials about OS X, iOS and web development  
-[Natasha The Robot](http://natashatherobot.com) - Swift tutorials and examples  
-[iAchieved.it](http://dev.iachieved.it/iachievedit/) - Software development tips and tricks  
-[Metal By Example](http://metalbyexample.com) - High performance graphics and compute programming for iOS  
-[Command Shift](http://commandshift.co.uk) - iOS development and other nonsense  
-[FlexMonkey](http://flexmonkey.blogspot.com) - Swift and ActionScript tinkering  
-[iOScreator](http://www.ioscreator.com) - posts about Objective-C, Swift, Cocoa and developing with Xcode  
-[Coding Explorer Blog](http://www.codingexplorer.com) - learn how to program for iOS in Swift  
-[Functional Gibberish](http://www.functionalgibberish.com) - programming in Swift  
-[AppCoda](http://www.appcoda.com) - blog dedicated to iOS programming  
-[iOS Development Tips](http://iosdevtips.co) - small tips related to Xcode, Objective-C, and iOS  
-[Little Bites of Cocoa](http://littlebitesofcocoa.com) - tips and techniques for iOS and Mac development  
-[AppleProgramming](https://www.youtube.com/user/AppleProgramming) - C, Objective-C, and Swift video tutorials for Mac developers  
-[Use Your Loaf](http://useyourloaf.com) - programming examples for OS X and iOS  
-[We ❤ Swift](https://www.weheartswift.com) - Swift and iOS articles and tutorials  
-[ShinobiControls](https://www.shinobicontrols.com/blog) - technical blog posts for iOS  
-[KrakenDev](http://krakendev.io) - blog about Swift programming  
-[SDK Critic](http://www.sdkcritic.com) - review iOS and OS X frameworks  
-[NSScreencast](http://nsscreencast.com) - weekly bite-sized screencasts for iOS development  
-[Memkite Blog](http://memkite.com/blog/) - blog on deep learning software for iOS  
-[Skilled](http://www.skilled.io) - the show and tell community for developers  
-[Andrew Bancroft](https://www.andrewcbancroft.com) - sharing bits one byte at a time
+## Analytics
+[Crashlytics](https://try.crashlytics.com) - light weight crash reporting solution  
+[AppbotX](https://appbot.co/appbotx/getstarted) - better mobile app support  
+[Flurry](http://www.flurry.com) - analytics for mobile platforms  
+[LaunchKit](https://launchkit.io) - screenshot builder, review monitor, sales reports, and website creation  
+[App Store Health Check](http://healthcheck.appbot.co/#/) - recommendations to improve app store description
 
 ## Books
 [iOS Programming: The Big Nerd Ranch 
@@ -50,19 +29,6 @@ Galloway
 [3D Graphics with Scene Kit](http://ronnqvi.st/book/) by David Ronnqvist  
 [Intermediate iOS 8 Programming with Swift Book](http://www.appcoda.com/intermediate-swift-programming-book/) by AppCoda  
 [iOS Apps with REST APIs: Building Web-Driven Apps in Swift](https://leanpub.com/iosappswithrest/c/launch) by Christina Moulton
-
-## Podcasts
-[Accidental Tech Podcast](http://atp.fm) - discussion of tech, Apple, programming, and loosely related matters  
-[Edge Cases](http://edgecasesshow.com) - weekly podcast about mostly Apple software development  
-[Developing Perspective](http://developingperspective.com) - discussing news of note in iOS Development, Apple and the like  
-[Release Notes](http://releasenotes.tv/aboutthepodcast/) - weekly podcast about the business of Mac and iOS indie software development  
-[Core Intuition](http://www.coreint.org) - indie software development for Mac, iOS and other Apple technologies  
-[CocoaConf Podcast](http://cocoaconf.com/podcast) - professional development for iOS and OSX developers  
-[iPhreaks](http://devchat.tv/iphreaks) - podcast for app developers  
-[More Than Just Code Podcast](http://www.mtjc.fm) - a show about mobile development  
-[The iOS Show](http://www.wehavecommunicators.com) - iOS news, tips, and opinions  
-[iOS Bytes](https://iosbytes.codeschool.com) - the latest news in the iOS community  
-[Developing Perspective](http://developingperspective.com) - podcast discussing news of note in iOS Development, Apple and the like
 
 ## Conferences
 [Apple Worldwide Developers Conference (WWDC)](https://developer.apple.com/wwdc/) - San Francisco, CA  
@@ -98,12 +64,18 @@ Galloway
 [iOS Goodies](http://ios-goodies.com) - weekly articles and other iOS goodies  
 [iOS Tech Learning/Resources Weekly](https://darrellnicholas-com.curated.co) - weekly publication of relevant, interesting links
 
-## Analytics
-[Crashlytics](https://try.crashlytics.com) - light weight crash reporting solution  
-[AppbotX](https://appbot.co/appbotx/getstarted) - better mobile app support  
-[Flurry](http://www.flurry.com) - analytics for mobile platforms  
-[LaunchKit](https://launchkit.io) - screenshot builder, review monitor, sales reports, and website creation  
-[App Store Health Check](http://healthcheck.appbot.co/#/) - recommendations to improve app store description
+## Podcasts
+[Accidental Tech Podcast](http://atp.fm) - discussion of tech, Apple, programming, and loosely related matters  
+[Edge Cases](http://edgecasesshow.com) - weekly podcast about mostly Apple software development  
+[Developing Perspective](http://developingperspective.com) - discussing news of note in iOS Development, Apple and the like  
+[Release Notes](http://releasenotes.tv/aboutthepodcast/) - weekly podcast about the business of Mac and iOS indie software development  
+[Core Intuition](http://www.coreint.org) - indie software development for Mac, iOS and other Apple technologies  
+[CocoaConf Podcast](http://cocoaconf.com/podcast) - professional development for iOS and OSX developers  
+[iPhreaks](http://devchat.tv/iphreaks) - podcast for app developers  
+[More Than Just Code Podcast](http://www.mtjc.fm) - a show about mobile development  
+[The iOS Show](http://www.wehavecommunicators.com) - iOS news, tips, and opinions  
+[iOS Bytes](https://iosbytes.codeschool.com) - the latest news in the iOS community  
+[Developing Perspective](http://developingperspective.com) - podcast discussing news of note in iOS Development, Apple and the like
 
 ## Software Development Kits (SDKs)
 [Layer](https://layer.com) - a full-stack building block for communications  
@@ -138,3 +110,31 @@ Galloway
 
 ## Video
 [Pomo.tv](http://www.pomo.tv) - a collection of videos about Mac, iOS, and Swift  
+
+## Websites
+[Ray Wenderlich](http://www.raywenderlich.com) - Tutorials for iPhone / iOS developers and gamers  
+[Swift Blog](https://developer.apple.com/swift/blog/) - Apple's official blog for the Swift language  
+[objc.io](http://www.objc.io) - A periodical about best practices and advanced techniques in Objective-C  
+[NSHipster](http://nshipster.com) - Obscure topics in Cocoa and Objective-C  
+[Think & Build](http://www.thinkandbuild.it) - Tutorials about OS X, iOS and web development  
+[Natasha The Robot](http://natashatherobot.com) - Swift tutorials and examples  
+[iAchieved.it](http://dev.iachieved.it/iachievedit/) - Software development tips and tricks  
+[Metal By Example](http://metalbyexample.com) - High performance graphics and compute programming for iOS  
+[Command Shift](http://commandshift.co.uk) - iOS development and other nonsense  
+[FlexMonkey](http://flexmonkey.blogspot.com) - Swift and ActionScript tinkering  
+[iOScreator](http://www.ioscreator.com) - posts about Objective-C, Swift, Cocoa and developing with Xcode  
+[Coding Explorer Blog](http://www.codingexplorer.com) - learn how to program for iOS in Swift  
+[Functional Gibberish](http://www.functionalgibberish.com) - programming in Swift  
+[AppCoda](http://www.appcoda.com) - blog dedicated to iOS programming  
+[iOS Development Tips](http://iosdevtips.co) - small tips related to Xcode, Objective-C, and iOS  
+[Little Bites of Cocoa](http://littlebitesofcocoa.com) - tips and techniques for iOS and Mac development  
+[AppleProgramming](https://www.youtube.com/user/AppleProgramming) - C, Objective-C, and Swift video tutorials for Mac developers  
+[Use Your Loaf](http://useyourloaf.com) - programming examples for OS X and iOS  
+[We ❤ Swift](https://www.weheartswift.com) - Swift and iOS articles and tutorials  
+[ShinobiControls](https://www.shinobicontrols.com/blog) - technical blog posts for iOS  
+[KrakenDev](http://krakendev.io) - blog about Swift programming  
+[SDK Critic](http://www.sdkcritic.com) - review iOS and OS X frameworks  
+[NSScreencast](http://nsscreencast.com) - weekly bite-sized screencasts for iOS development  
+[Memkite Blog](http://memkite.com/blog/) - blog on deep learning software for iOS  
+[Skilled](http://www.skilled.io) - the show and tell community for developers  
+[Andrew Bancroft](https://www.andrewcbancroft.com) - sharing bits one byte at a time
