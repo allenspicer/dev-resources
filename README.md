@@ -1,7 +1,6 @@
 # Resources for Mac and iOS developers
 
-Categories:  
-[Analytics](#analytics) :chart_with_upwards_trend: | [Books](#books) :books: | [Conferences](#conferences) :office: | [Courses](#courses) :notebook: | [Newsletters](#newsletters) :newspaper: | [Podcasts](#podcasts) :speaker: | [Twitter](#twitter) :bird: | [Video](#video) :movie_camera: | [Websites](#websites) :globe_with_meridians:
+[:chart_with_upwards_trend: Analytics](#analytics) | [:books: Books](#books) | [:office: Conferences](#conferences) | [:notebook: Courses](#courses) | [:newspaper: Newsletters](#newsletters) | [:speaker: Podcasts](#podcasts)  | [:bird: Twitter](#twitter) | [:movie_camera: Video](#video) | [:globe_with_meridians: Websites](#websites)
 
 Feel free to submit your own links and categories via [Pull requests](https://github.com/knoxcocoa/dev-resources/pulls) or [Issues](https://github.com/knoxcocoa/dev-resources/issues).
 
@@ -109,6 +108,7 @@ Galloway
 [Chris Eidhof](https://twitter.com/chriseidhof) - I make things: @FunctionalSwift – @getscenery – @decksetapp – @objcio  
 
 ## Video
+[AppleProgramming](https://www.youtube.com/user/AppleProgramming) - learn programming for Mac OS X  
 [Pomo.tv](http://www.pomo.tv) - a collection of videos about Mac, iOS, and Swift  
 
 ## Websites
