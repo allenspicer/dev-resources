@@ -137,4 +137,5 @@ Galloway
 [NSScreencast](http://nsscreencast.com) - weekly bite-sized screencasts for iOS development  
 [Memkite Blog](http://memkite.com/blog/) - blog on deep learning software for iOS  
 [Skilled](http://www.skilled.io) - the show and tell community for developers  
-[Andrew Bancroft](https://www.andrewcbancroft.com) - sharing bits one byte at a time
+[Andrew Bancroft](https://www.andrewcbancroft.com) - sharing bits one byte at a time  
+[Swift development blog](http://mhorga.org) - topics on Swift and Metal  
