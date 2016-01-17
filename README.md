@@ -27,7 +27,8 @@ Galloway
 [Motion Design for iOS](http://designthencode.com) by Mike Rundle  
 [3D Graphics with Scene Kit](http://ronnqvi.st/book/) by David Ronnqvist  
 [Intermediate iOS 8 Programming with Swift Book](http://www.appcoda.com/intermediate-swift-programming-book/) by AppCoda  
-[iOS Apps with REST APIs: Building Web-Driven Apps in Swift](https://leanpub.com/iosappswithrest/c/launch) by Christina Moulton
+[iOS Apps with REST APIs: Building Web-Driven Apps in Swift](https://leanpub.com/iosappswithrest/c/launch) by Christina Moulton  
+[Parsing JSON in Swift](http://roadfiresoftware.com/parsing-json-in-swift/) by Josh Brown
 
 ## Conferences
 [Apple Worldwide Developers Conference (WWDC)](https://developer.apple.com/wwdc/) - San Francisco, CA  
