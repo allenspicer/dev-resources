@@ -141,3 +141,4 @@ Galloway
 [Andrew Bancroft](https://www.andrewcbancroft.com) - sharing bits one byte at a time  
 [Swift development blog](http://mhorga.org) - topics on Swift and Metal  
 [Roadfire Software blog](http://roadfiresoftware.com/blog/) - topics on Swift and parsing JSON  
+[Cocoa with Love](http://cocoawithlove.com) - blog by Matt Gallagher  
