@@ -54,6 +54,8 @@ Galloway
 [Stanford on iTunes U](https://itunes.stanford.edu/index.html) - iOS and Swift programming courses  
 [Udacity](https://www.udacity.com) - online courses and degree programs  
 [Codecademy](https://www.codecademy.com) - learn to code interactively
+[Tech Talent South](https://www.techtalentsouth.com) - iOS development using Swfit, Xcode and the Software Development Kit
+
 
 ## Newsletters
 [iOS Dev Weekly](http://iosdevweekly.com) - curated by Dave Verwer and published every Friday  
